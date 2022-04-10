@@ -11,8 +11,7 @@ Finally:
 npm run generate
 ```
 
-To update the image Uri:
-Change imageUri in config.json to the new uri.
+To update the image Uri. Change imageUri in config.json to the new uri.
 
 Then run: 
 ```sh
