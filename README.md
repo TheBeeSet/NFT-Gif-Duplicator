@@ -1,5 +1,7 @@
 # NFT Gif Duplicator
 
+[Discord](https://discord.gg/gNNKkYcxEK)
+
 # Usage 🛠️
 
 Add your images and json files to /gifs and /json
