@@ -1,0 +1,13 @@
+{
+  "name": "nft-gif-duplicator",
+  "version": "1.0.0",
+  "description": "Duplicates Gif",
+  "main": "script.js",
+  "scripts": {
+    "generate": "node script.js",
+    "start": "node script.js",
+    "updateUri": "node updateUri.js"
+  },
+  "author": "The Bee Set",
+  "license": "MIT"
+}

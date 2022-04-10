@@ -1,0 +1,27 @@
+{
+  "name": "Name doesn't matter as it gets repleaced by the script",
+  "description": "",
+  "image": "Image doesn't matter as it gets repleaced by the script",
+  "dna": "abf387b0a444b1acc3ba245d32f19bf7327b06e2",
+  "edition": "Edition doesn't matter as it gets repleaced by the script",
+  "date": 1647271720745,
+  "external_url": "https://www.thebeeset.com/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Stripes",
+      "value": "2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ]
+}

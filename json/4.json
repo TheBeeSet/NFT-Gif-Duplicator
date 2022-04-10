@@ -1,0 +1,27 @@
+{
+  "name": "Name doesn't matter as it gets repleaced by the script",
+  "description": "",
+  "image": "Image doesn't matter as it gets repleaced by the script",
+  "dna": "9c729bf8d06f0e1f6bb598afee23323806e2af62",
+  "edition": "Edition doesn't matter as it gets repleaced by the script",
+  "date": 1647271720514,
+  "external_url": "https://www.thebeeset.com/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stripes",
+      "value": "2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ]
+}

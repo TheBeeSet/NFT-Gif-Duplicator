@@ -1,0 +1,27 @@
+{
+  "name": "Name doesn't matter as it gets repleaced by the script",
+  "description": "",
+  "image": "Image doesn't matter as it gets repleaced by the script",
+  "dna": "f5bf62f26ee7e7692119de76a1f77db651449020",
+  "edition": "Edition doesn't matter as it gets repleaced by the script",
+  "date": 1647271720060,
+  "external_url": "https://www.thebeeset.com/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Stripes",
+      "value": "2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Derp"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ]
+}

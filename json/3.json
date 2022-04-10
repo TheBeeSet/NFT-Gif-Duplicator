@@ -1,0 +1,27 @@
+{
+  "name": "Name doesn't matter as it gets repleaced by the script",
+  "description": "",
+  "image": "Image doesn't matter as it gets repleaced by the script",
+  "dna": "3e0487218b3af1a51dffb7171538f27d76332bce",
+  "edition": "Edition doesn't matter as it gets repleaced by the script",
+  "date": 1647271720294,
+  "external_url": "https://www.thebeeset.com/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Stripes",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fasinated"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ]
+}
