@@ -1,4 +1,4 @@
-# NFT-Gif-Duplicator
+# NFT Gif Duplicator
 
 # Usage 🛠️
 
