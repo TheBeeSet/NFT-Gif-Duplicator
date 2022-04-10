@@ -1,0 +1,27 @@
+{
+  "name": "Bee #10",
+  "description": "",
+  "image": "ipfs://asdf/10",
+  "dna": "9c729bf8d06f0e1f6bb598afee23323806e2af62",
+  "edition": 10,
+  "date": 1647271720514,
+  "external_url": "https://www.thebeeset.com/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stripes",
+      "value": "2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ]
+}

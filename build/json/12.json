@@ -1,0 +1,27 @@
+{
+  "name": "Bee #12",
+  "description": "",
+  "image": "ipfs://asdf/12",
+  "dna": "3e0487218b3af1a51dffb7171538f27d76332bce",
+  "edition": 12,
+  "date": 1647271720294,
+  "external_url": "https://www.thebeeset.com/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Stripes",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fasinated"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Bee #1",
+  "description": "",
+  "image": "ipfs://asdf/1",
+  "dna": "feb44599f8be9fab45c1fef36f27bada6891df64",
+  "edition": 1,
+  "date": 1647271719855,
+  "external_url": "https://www.thebeeset.com/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Stripes",
+      "value": "2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Default"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ]
+}
